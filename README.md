@@ -24,7 +24,7 @@ $ python
   "Learning": "Web scraping, Cloudflare bypass, and AI",
   "Looking to": "Build open‑source projects & hackathon tools",
   "Loves to": "Automate everything 🚀",
-  "Reach me at": "hardikjoshi321@gmail.com"
+  "Reach me at": "hardiksanskarjoshi@gmail.com"
 }
 ```
 
